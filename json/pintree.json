@@ -12,6 +12,18 @@
           {
             "type": "link",
             "addDate": 1694418779000,
+            "title": "青港舱单传输平台",
+            "url": "http://cdcs.qgil.net/login?redirect=%2Findex"
+          },
+          {
+            "type": "link",
+            "addDate": 1694418779000,
+            "title": "地中海捷运物流",
+            "url": "http://www.medlog.com.cn/querydata/billquerysearch.aspx"
+          },
+          {
+            "type": "link",
+            "addDate": 1694418779000,
             "title": "云港通",
             "icon": "https://logo.clearbit.com/www.qingdao-port.net",
             "url": "https://www.qingdao-port.net/login"
